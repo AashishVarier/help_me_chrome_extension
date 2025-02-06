@@ -1,0 +1,7 @@
+- minimalist Website Blocker
+- 30 min for the timer is fixed
+- Remaining time can be seen via the popup
+- Timer is reset at midnight
+- shows list of site blocked
+- only way to reset is uninstall and reinstall
+- add url and include * to block subdomain
